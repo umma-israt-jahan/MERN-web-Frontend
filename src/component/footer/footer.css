@@ -1,0 +1,80 @@
+.footer-headline{
+    border-bottom: 1px solid rgb(10, 10, 10);
+   
+    padding-top: 3rem;
+ }
+ .footer-headline>p{
+    color: black;
+ }
+ .BeTheFirstKnow{
+    color: black;
+    font-weight: bold;
+    font-size: 2rem;
+    padding-right: 2rem;
+    
+ }
+ 
+ .email{
+    height: 3rem;
+    width:70%;
+    margin-left:1rem ;
+    letter-spacing: 1px;
+    margin-top:1.5rem;
+    border-color: #525050;
+    border: 1px solid rgb(10, 10, 10);
+ }
+ .btn-subcrb{
+    height: 3rem;
+    width: 10rem;
+    background: black;
+    color: white;
+    letter-spacing: 1px;
+ }
+ .uderIcon{
+   padding-left: 40%;
+   display: flex;
+ }
+ .footer-icon{
+ display: flex;
+
+ 
+ }
+ .footer{
+     width: 100%;
+     height: fit-content;
+     padding: 15px;
+     background: black;
+     text-align: center;
+     color: white;
+    
+ }
+ .footer .box-container{
+    display: flex;
+    gap: 3rem;
+  
+ }
+ 
+ .footer .box-container .box h3{
+ font-size: 1rem ;
+ padding-bottom: 2rem;
+ display: flex;
+ 
+ }
+ .footer .box-container .box a{
+    color:whitesmoke;
+    flex-direction: column;
+    display: flex;
+ 
+    
+ }
+ 
+ 
+ 
+ .footer p{
+     color: whitesmoke;
+     padding: 20px auto;
+     margin: 20px auto;
+ }
+ .footer-text{
+   
+ }

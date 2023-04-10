@@ -1,0 +1,38 @@
+.header{
+    background: rgb(243, 204, 132);
+    text-align: center;
+    justify-content: space-between;
+    padding-right: 6rem;
+    height: 2rem;
+    padding-top: 6px;
+    word-spacing: 1px;
+ }
+ .header-secound{
+    background: rgb(249, 223, 227);
+    text-align: center;
+    padding-right: 8rem;
+    height: 2rem;
+    padding-top: 6px;
+    word-spacing: 1px;
+   
+ }
+ .header-third{
+    background: rgb(228, 226, 226);
+    justify-content: space-between;
+    display: flex;
+    padding-left: 9rem;
+    padding-right: 9rem;
+    height: 2rem;
+    padding-top: 6px;
+    word-spacing: 1px;
+
+    
+ }
+ .startIcon{
+   display: flex;
+   flex-direction: row;
+ }
+ .navmenu{
+   padding-bottom: 2px;
+ }
+ 
